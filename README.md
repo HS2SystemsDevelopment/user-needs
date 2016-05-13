@@ -1,7 +1,8 @@
 # user-needs
 HS2 IT User Research Project Toolkit 
 
-INTRODUCTION As part of the investigation and delivery of any new service, you need to first conduct user research to ascertain who the users of the technology shall be, how best their needs can be met and what their current pain points are.
+INTRODUCTION 
+As part of the investigation and delivery of any new service, you need to first conduct user research to ascertain who the users of the technology shall be, how best their needs can be met and what their current pain points are.
 
 This toolkit was developed for HS2 staff to use as a starting point to find out how to effectively conduct user research. We’ve included short detailed step-bystep how-to guides on many separate elements of the user research process
 
